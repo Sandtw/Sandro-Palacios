@@ -44,4 +44,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" style="height: 4rem"/>
 </p>
 
-![snake gif](https://github.com/Sandtw/Sandtw/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/Sandtw/Sandtw/blob/output/github-contribution-grid-snake.gif)
