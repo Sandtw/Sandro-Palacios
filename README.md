@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandtw&color=red&style=flat&label=PROFILE+VIEWS"
             alt="view profile">
+  <a href="https://www.linkedin.com/in/sandrop-an/"><img src="https://img.shields.io/badge/Sandro%20Palacios%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <!-- ## 👋 &nbsp;Que tal! Soy Sandro -->
