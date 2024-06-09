@@ -13,7 +13,7 @@
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Actualmente soy Bachiller en Ingeniería Informática.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, especialmente temas como Deep Learning, NLP y MLOps.\
-:bike: &nbsp;En mis tiempos libres hago ciclismo de montaña, de esta manera encuentro soluciones mágicas ante los bugs.\
+:bike: &nbsp;En mis tiempos libres hago ciclismo, de esta manera me ilumino, y así encontrar soluciones mágicas a los bugs.\
 ⚡ Aprender algo nuevo todos los días mantiene altos mis niveles de dopamina.
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a spalacios.antivo@gmail.com! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Eche un vistazo a mi [Currículum vitae](https://) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
