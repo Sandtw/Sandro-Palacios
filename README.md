@@ -12,9 +12,9 @@
 📈 &nbsp;¡Soy un desarrollador RPA y un entusiasta de la IA!\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Actualmente soy Bachiller en Ingeniería Informática.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, especialmente temas como Deep Learning, NLP y MLOps.\
-:bike: &nbsp;En mis tiempos libres hago ciclismo, de esta manera me ilumino, y así encontrar soluciones mágicas a los bugs.\
-⚡ Aprender algo nuevo todos los días mantiene altos mis niveles de dopamina.
+🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, especialmente campos como Deep Learning, NLP y MLOps.\
+:bike: &nbsp;En mis tiempos libres hago ciclismo, de esta manera me ilumino para encontrar soluciones mágicas a los bugs.\
+⚡ &nbsp; Aprender algo nuevo todos los días mantiene alto mis niveles de dopamina.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a spalacios.antivo@gmail.com! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Eche un vistazo a mi [Currículum vitae](https://) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
